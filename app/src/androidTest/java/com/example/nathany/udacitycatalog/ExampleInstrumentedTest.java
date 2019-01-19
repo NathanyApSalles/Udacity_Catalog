@@ -1,4 +1,4 @@
-package com.example.nathany.ioasysempresas;
+package com.example.nathany.udacitycatalog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
